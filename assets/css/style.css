@@ -312,6 +312,9 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 
+.navbar li .dropdown span:hover{
+  display: block;
+}
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -812,53 +815,53 @@ section {
   opacity: 1;
 }
 
-/* Pricing Section
+/* boys Section
 --------------------------------*/
-#pricing {
+#boys {
   padding: 60px 0 60px 0;
   overflow: hidden;
 }
-#pricing .box {
+#boys .box {
   padding: 40px;
   margin-bottom: 30px;
   box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
   background: #fff;
   text-align: center;
 }
-#pricing h3 {
+#boys h3 {
   font-weight: 400;
   margin-bottom: 15px;
   font-size: 28px;
 }
-#pricing h4 {
+#boys h4 {
   font-size: 46px;
   color: #1dc8cd;
   font-weight: 300;
 }
-#pricing h4 sup {
+#boys h4 sup {
   font-size: 20px;
   top: -20px;
 }
-#pricing h4 span {
+#boys h4 span {
   color: #bababa;
   font-size: 20px;
 }
-#pricing ul {
+#boys ul {
   padding: 0;
   list-style: none;
   color: #999;
   text-align: left;
   line-height: 20px;
 }
-#pricing ul li {
+#boys ul li {
   padding-bottom: 12px;
 }
-#pricing ul i {
+#boys ul i {
   color: #1dc8cd;
   font-size: 18px;
   padding-right: 4px;
 }
-#pricing .get-started-btn {
+#boys .get-started-btn {
   background: #515e61;
   display: inline-block;
   padding: 6px 30px;
@@ -869,60 +872,60 @@ section {
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
 }
-#pricing .featured {
+#boys .featured {
   border: 2px solid #1dc8cd;
 }
-#pricing .featured .get-started-btn {
+#boys .featured .get-started-btn {
   background: linear-gradient(45deg, #1de099, #1dc8cd);
 }
 
-/* pricing2 section
+/* girls section
 -------------------------------- */
-#pricing2 {
+#girls {
   padding: 60px 0 60px 0;
   overflow: hidden;
 }
-#pricing2 .box {
+#girls .box {
   padding: 40px;
   margin-bottom: 30px;
   box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
   background: #fff;
   text-align: center;
 }
-#pricing2 h3 {
+#girls h3 {
   font-weight: 400;
   margin-bottom: 15px;
   font-size: 28px;
 }
-#pricing2 h4 {
+#girls h4 {
   font-size: 46px;
   color: #1dc8cd;
   font-weight: 300;
 }
-#pricing2 h4 sup {
+#girls h4 sup {
   font-size: 20px;
   top: -20px;
 }
-#pricing2 h4 span {
+#girls h4 span {
   color: #bababa;
   font-size: 20px;
 }
-#pricing2 ul {
+#girls ul {
   padding: 0;
   list-style: none;
   color: #999;
   text-align: left;
   line-height: 20px;
 }
-#pricing2 ul li {
+#girls ul li {
   padding-bottom: 12px;
 }
-#pricing2 ul i {
+#girls ul i {
   color: #1dc8cd;
   font-size: 18px;
   padding-right: 4px;
 }
-#pricing2 .get-started-btn {
+#girls .get-started-btn {
   background: #515e61;
   display: inline-block;
   padding: 6px 30px;
@@ -933,10 +936,10 @@ section {
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
 }
-#pricing2 .featured {
+#girls .featured {
   border: 2px solid #1dc8cd;
 }
-#pricing2 .featured .get-started-btn {
+#girls .featured .get-started-btn {
   background: linear-gradient(45deg, #1de099, #1dc8cd);
 }
 
